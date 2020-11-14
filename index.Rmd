@@ -1,7 +1,7 @@
 
 ---
 title: "PML Assingment"
-author: "Beatriz JimÃ©nez Franco"
+author: "Beatriz Jim�nez Franco"
 date: "14/11/2020"
 output:
   pdf_document: default
@@ -120,7 +120,7 @@ The model with all features performs better than the one with PCA pre-processing
 
 ## Compute the accuracy of testing
 
-We will use this code but in this case it is not necessary because i displayed above the same confussion matrix and out of error with the final model option:
+We can use this code but in this case it is not necessary because i displayed above the same confussion matrix and out of error with the final model option:
 
 confusionMatrix((testing$classe), predict(fit.nopca, testing))
 
