@@ -16,3 +16,4 @@ The test data are available here:
 The data for this project come from this source: <http://web.archive.org/web/20161224072740/http:/groupware.les.inf.puc-rio.br/har>. If you use the document you create for this class for any purpose please cite them as they have been very generous in allowing their data to be used for this kind of assignment.
 ## You can see my htlm file in this link:
 <https://rpubs.com/spoke/690908>
+>You can see the htlm rendered, not the raw format, using this link : <https://singulritarian7.github.io/practicalmachinelearning/index.html>
